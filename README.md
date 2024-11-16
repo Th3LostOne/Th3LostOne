@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Th3LostOne
 - 👀 I’m interested in sports and the Internet
-- 🌱 I’m currently learning BIT-networking 3^rd Year
+- 🌱 I’m currently learning BIT-networking 3rd Year
 - 💻 I’m also interested in cybersecurity and Kali Linux
 
 <!---
